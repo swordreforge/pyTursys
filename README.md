@@ -104,7 +104,7 @@ Toursys 是一个基于 Flask 的旅游景点推荐和评论系统，用户可�
 
 ### 安装步骤
 0.安装依赖：
-    ```python
+    ```
     pip install flask flask_sqlalchemy　flask_login flask_wtf.csrf tkinter pillow
 
     ```
